@@ -1,1 +1,1 @@
-# Kubernetes cheat code
+# Kubernetes cheat codes
